@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Adding a background color for better visibility */
+}
+
+html {
+  height: 100%;
+}
+:root {
+  /* fonts */
+  --font-arial-black: "Arial Black";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-lgi: 19px;
+  --br-23xl: 42px;
+}
