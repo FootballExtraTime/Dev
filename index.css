@@ -1,0 +1,142 @@
+.path-62-icon {
+  position: absolute;
+  top: 995px;
+  left: -12px;
+  width: 1920px;
+  height: 0;
+}
+.background-left,
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background-left {
+  background: linear-gradient(135deg, #009244, #004922);
+  width: 1920px;
+  height: 1090px;
+}
+.icon {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo-icon {
+  position: absolute;
+  top: 41.46px;
+  left: calc(50% - 117.38px);
+  width: 210.9px;
+  height: 79.7px;
+}
+.group-child {
+  position: absolute;
+  top: calc(50% - 36.45px);
+  left: calc(50% - 129.55px);
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.16) inset;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-white);
+  width: 268px;
+  height: 48px;
+}
+.google-g-logosvg-icon {
+  position: absolute;
+  top: calc(50% - 30.45px);
+  left: calc(50% - 116.55px);
+  width: 37px;
+  height: 36px;
+  object-fit: cover;
+}
+.group-item,
+.log-in-with {
+  position: absolute;
+  top: calc(50% - 22.45px);
+  left: calc(50% - 61.55px);
+}
+.group-item {
+  top: calc(50% + 33.55px);
+  left: calc(50% - 129.55px);
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.16) inset;
+  border-radius: var(--br-23xl);
+  background-color: #0766ff;
+  width: 268px;
+  height: 49px;
+}
+.fb-icon-325x325 {
+  position: absolute;
+  top: calc(50% + 36.55px);
+  left: calc(50% - 115.55px);
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.log-in-with1 {
+  position: absolute;
+  top: calc(50% + 47.55px);
+  left: calc(50% - 61.55px);
+  color: var(--color-white);
+}
+.group-inner,
+.rectangle-wrapper {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.16) inset;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-white);
+}
+.rectangle-wrapper {
+  width: 100%;
+  left: 0;
+}
+
+.remember-me-container {
+  position: absolute;
+  bottom: 3px;
+  left: 27px;
+  width: 156px; /* Adjust width as needed */
+  display: flex;
+  align-items: center;
+}
+.remember-me {
+  flex: 1; /* Take up remaining space */
+}
+.dot {
+  width: 18px;  /* Set the width of the circle */
+  height: 18px; /* Set the height of the circle */
+  background-color: white; /* Change to black for visibility against white background */
+  border-radius: 50%; /* Makes the div a circle */
+  position: absolute;
+  right: 3px; /* Adjust the position as needed */
+}
+.group-parent {
+  position: absolute;
+  top: calc(50% + 104.55px);
+  left: calc(50% - 94.55px);
+  width: 156px;
+  height: 24px;
+  font-size: 12px;
+}
+.parent {
+  position: relative; /* Adjusted to relative to ensure proper positioning within log-in-2 */
+  width: 397.1px;
+  height: 430.9px;
+}
+.log-in-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-arial-black);
+}
