@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-calibri: Calibri;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-12xl: 31px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkorange: #ff8900;
+  --color-seagreen: #006837;
+  --color-forestgreen: #009244;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-32xl: 51px;
+}
