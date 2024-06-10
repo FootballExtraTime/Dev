@@ -1,0 +1,841 @@
+.background-left,
+.path-62-icon {
+  position: absolute;
+  top: 995px;
+  left: -12px;
+  width: 1920px;
+  height: 0;
+}
+.background-left {
+  top: 0;
+  left: 0;
+  background: linear-gradient(135deg, #009244, #004922);
+  height: 1090px;
+}
+.friends-rectangle,
+.user-rectangle {
+  position: absolute;
+  top: 252px;
+  left: 140px;
+  border-radius: var(--br-32xl);
+  background-color: var(--color-forestgreen);
+  width: 536px;
+  height: 353px;
+}
+.friends-rectangle {
+  top: 662px;
+}
+.img-0365-icon {
+  position: absolute;
+  top: 268px;
+  left: 158px;
+  border-radius: 50%;
+  width: 121px;
+  height: 121px;
+  object-fit: cover;
+}
+.name {
+  position: absolute;
+  top: 419.75px;
+  left: 174.75px;
+}
+.country,
+.lines-user-icon,
+.nickname {
+  position: absolute;
+  top: 448.28px;
+  left: 174.75px;
+}
+.country,
+.lines-user-icon {
+  top: 476.8px;
+}
+.lines-user-icon {
+  top: 441.25px;
+  left: 291.5px;
+  width: 323.3px;
+  height: 60.3px;
+}
+.id1 {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  -webkit-text-stroke: 1px #707070;
+}
+.id-child {
+  right: -0.06px;
+  bottom: -1.02px;
+  border-top: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 256.3px;
+  height: 2px;
+}
+.b,
+.id,
+.id-child {
+  position: absolute;
+}
+.b {
+  top: -0.5px;
+  left: calc(50% - 51.5px);
+  -webkit-text-stroke: 1px #707070;
+}
+.id {
+  top: 316px;
+  left: 299px;
+  width: 314px;
+  height: 32.2px;
+  font-size: var(--font-size-12xl);
+}
+.boris-aleksandrov {
+  position: absolute;
+  top: 419.75px;
+  left: 378px;
+}
+.borisal90,
+.bulgaria {
+  position: absolute;
+  top: 448.28px;
+  left: 413px;
+}
+.bulgaria {
+  top: 476.8px;
+  left: 419px;
+}
+.google-g-logosvg-icon {
+  position: absolute;
+  top: 353px;
+  left: 223px;
+  width: 37px;
+  height: 36px;
+  object-fit: cover;
+}
+.friends-button,
+.pencil-icon,
+.pencil-icon1,
+.pencil-icon2 {
+  position: absolute;
+  top: 418.93px;
+  left: 616px;
+  width: 24.8px;
+  height: 24.6px;
+}
+.friends-button,
+.pencil-icon1,
+.pencil-icon2 {
+  top: 447.45px;
+}
+.friends-button,
+.pencil-icon2 {
+  top: 475.98px;
+}
+.friends-button {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.friend-icon {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 12.2px;
+  width: 22.4px;
+  height: 22.6px;
+}
+.friends1 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 15.5px);
+}
+.friends,
+.notftab {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.friends {
+  width: 139px;
+  height: 40px;
+  cursor: pointer;
+}
+.notftab {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) inset;
+  border-radius: var(--br-xl);
+  background-color: var(--color-seagreen);
+}
+.notif-child {
+  position: absolute;
+  height: calc(100% - 13px);
+  top: 7px;
+  bottom: 6px;
+  left: 9px;
+  border-radius: 50%;
+  max-height: 100%;
+  width: 27px;
+}
+.notifications {
+  position: absolute;
+  top: calc(50% - 7px);
+  right: 7px;
+}
+.notif {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 69.5px);
+  width: 139px;
+  height: 40px;
+  cursor: pointer;
+}
+.friends-button-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.games1 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 13.5px);
+}
+.games-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 8.05px);
+  border-radius: 6.22px;
+  background-color: var(--color-darkorange);
+  width: 16.1px;
+  height: 5px;
+}
+.path-67-icon {
+  height: calc(100% - 0.6px);
+  width: 100%;
+  top: 0.54px;
+  right: 0;
+  bottom: 0.06px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.games,
+.games2,
+.path-67-icon {
+  position: absolute;
+}
+.games2 {
+  top: calc(50% - 11.22px);
+  left: 9.57px;
+  width: 35.3px;
+  height: 22.5px;
+}
+.games {
+  top: 0;
+  right: 0;
+  width: 139px;
+  height: 40px;
+  cursor: pointer;
+}
+.settings {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 12.5px);
+}
+.stennigs-icon {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 10.67px;
+  width: 26px;
+  height: 26px;
+}
+.component-37-16 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 69.5px);
+  width: 139px;
+  height: 40px;
+}
+.ranking-icon {
+  position: absolute;
+  top: calc(50% - 8.3px);
+  left: 9px;
+  width: 35.1px;
+  height: 16.6px;
+}
+.ranking {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 139px;
+  height: 40px;
+}
+.navigator {
+  position: absolute;
+  top: 736px;
+  left: 189px;
+  width: 441px;
+  height: 111px;
+  font-size: var(--font-size-mini);
+}
+.logo-icon {
+  position: absolute;
+  top: 428.5px;
+  right: 217px;
+  width: 815.5px;
+  height: 308.1px;
+  opacity: 0.05;
+}
+.profile-3-child {
+  position: absolute;
+  top: 713.5px;
+  left: 247.5px;
+  border-top: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 320px;
+  height: 2px;
+}
+.navigator1 {
+  position: absolute;
+  top: 681px;
+  left: 358px;
+  font-size: var(--font-size-6xl);
+}
+.profile-3-item {
+  position: absolute;
+  top: 252px;
+  right: 140px;
+  border-radius: 27px;
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 950px;
+  height: 763px;
+}
+.friend-icon1 {
+  position: absolute;
+  top: 264.46px;
+  left: 720px;
+  width: 41.1px;
+  height: 41.5px;
+}
+.friends2 {
+  position: absolute;
+  top: 281px;
+  left: 780px;
+  font-size: var(--font-size-6xl);
+}
+.profile-3-inner {
+  position: absolute;
+  top: 264px;
+  right: 158px;
+  border-radius: 21px;
+  background-color: var(--color-white);
+  width: 203px;
+  height: 42px;
+}
+.magnifyng-glass-icon {
+  position: absolute;
+  top: 270.5px;
+  right: 173.47px;
+  width: 29px;
+  height: 29px;
+}
+.search-a-friend {
+  position: absolute;
+  top: 277px;
+  right: 234px;
+  font-size: var(--font-size-mid);
+  color: #b4afaf;
+}
+.karanga-in-2024-icon {
+  position: absolute;
+  height: calc(100% - 34px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 34px;
+  left: 0;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.facebook-icon-circle-logo-09f3 {
+  position: absolute;
+  top: calc(50% + 9.5px);
+  right: 8px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.karanga1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 28.5px);
+}
+.karanga,
+.n-icon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.karanga {
+  height: 155px;
+}
+.n-icon {
+  height: calc(100% - 41px);
+  bottom: 41px;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.facebook-icon-circle-logo-09f31 {
+  position: absolute;
+  top: calc(50% + 6px);
+  right: 8px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.martin-batalski {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 162px;
+}
+.facebook-icon-circle-logo-09f32 {
+  position: absolute;
+  top: calc(50% + 13px);
+  right: 8px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.ilko-slavchev {
+  bottom: 0;
+  left: 16px;
+}
+.div,
+.ilko,
+.ilko-slavchev {
+  position: absolute;
+}
+.ilko {
+  width: 100%;
+  top: calc(50% - 81.5px);
+  right: 0;
+  left: 0;
+  height: 162px;
+  color: var(--color-springgreen);
+}
+.div {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% + 125px);
+  width: 121px;
+}
+.kalin-dimitrov,
+.n-icon4 {
+  position: absolute;
+  bottom: 0;
+  left: 12px;
+}
+.n-icon4 {
+  height: calc(100% - 42px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 42px;
+  left: 0;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.facebook-icon-circle-logo-09f35 {
+  position: absolute;
+  top: calc(50% + 13.5px);
+  right: 18px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.genata-fifa {
+  position: absolute;
+  right: 15px;
+  bottom: 0;
+}
+.div1,
+.genata {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.genata {
+  width: 100%;
+  right: 0;
+  height: 163px;
+}
+.div1 {
+  height: 100%;
+  top: 0;
+  width: 121px;
+}
+.facebook-icon-circle-logo-09f36 {
+  position: absolute;
+  top: calc(50% + 13px);
+  right: 7px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.bobi {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: calc(50% - 81.5px);
+  right: 8px;
+  left: 9px;
+  height: 162px;
+}
+.facebook-icon-circle-logo-09f37 {
+  position: absolute;
+  top: calc(50% + 13.5px);
+  right: 7px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.leo-messi {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 34.5px);
+}
+.meskata,
+.n-icon7 {
+  position: absolute;
+  width: calc(100% - 17px);
+}
+.meskata {
+  right: 8px;
+  bottom: 0;
+  left: 9px;
+  height: 163px;
+}
+.n-icon7 {
+  top: 0;
+  right: 13px;
+  left: 4px;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon-circle-logo-09f38 {
+  position: absolute;
+  top: calc(50% + 9.5px);
+  right: 20px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.alexander-avramov {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.avramov {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 155px;
+  color: var(--color-springgreen);
+}
+.div2 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 246px);
+  width: 138px;
+}
+.div2,
+.niki,
+.spike97 {
+  position: absolute;
+}
+.spike97 {
+  bottom: 0;
+  left: calc(50% - 27.5px);
+}
+.niki {
+  top: calc(50% - 80.5px);
+  left: 4px;
+  width: 121px;
+  height: 162px;
+  color: var(--color-springgreen);
+}
+.fernando-torres-2017-icon {
+  position: absolute;
+  width: calc(100% - 1px);
+  top: 0;
+  right: 1px;
+  left: 0;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon-circle-logo-09f310 {
+  position: absolute;
+  top: calc(50% + 13.5px);
+  right: 8px;
+  border-radius: var(--br-base);
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.el-nino,
+.el-nino-original {
+  position: absolute;
+  bottom: 0;
+  left: 8px;
+}
+.el-nino {
+  left: 4px;
+  width: 122px;
+  height: 163px;
+}
+.google-logo-child,
+.n-icon9 {
+  position: absolute;
+  top: 0;
+  border-radius: 50%;
+}
+.n-icon9 {
+  left: 3px;
+  width: 121px;
+  height: 121px;
+  object-fit: cover;
+}
+.google-logo-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.google-logo {
+  position: absolute;
+  top: calc(50% + 9.5px);
+  left: calc(50% - 0.5px);
+  width: 42px;
+  height: 42px;
+  background-image: url(./public/google--g--logosvg@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div3,
+.paul-pogba {
+  position: absolute;
+  bottom: 0;
+}
+.div3 {
+  height: 100%;
+  top: 0;
+  left: calc(50% - 66px);
+  width: 149px;
+}
+.paul-pogba {
+  right: 16px;
+}
+.google-logo1 {
+  position: absolute;
+  top: calc(50% + 9.5px);
+  right: 7px;
+  width: 42px;
+  height: 42px;
+  background-image: url(./public/google--g--logosvg@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.benjisesko {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 38.5px);
+}
+.sesko {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 77.5px);
+  right: 0;
+  left: 0;
+  height: 155px;
+  color: var(--color-springgreen);
+}
+.google-logo2 {
+  position: absolute;
+  top: calc(50% + 9.5px);
+  right: 8px;
+  width: 42px;
+  height: 42px;
+  background-image: url(./public/google--g--logosvg@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.welton-japan {
+  bottom: 0;
+  left: 10px;
+}
+.div4,
+.friends3,
+.welton-japan {
+  position: absolute;
+}
+.div4 {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 121px;
+}
+.friends3 {
+  top: 389px;
+  right: 206px;
+  width: 818px;
+  height: 523px;
+  font-size: var(--font-size-mid);
+}
+.all-friends {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 28.5px);
+}
+.all-firends {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkorange);
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 99px;
+  color: var(--color-seagreen);
+}
+.online1 {
+  top: calc(50% - 6.5px);
+  left: calc(50% - 18.5px);
+}
+.chat2,
+.online,
+.online1 {
+  position: absolute;
+}
+.online {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 109px);
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 99px;
+}
+.chat2 {
+  top: calc(50% - 6.5px);
+  left: calc(50% - 12.5px);
+}
+.requests {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% + 10px);
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 99px;
+}
+.requests2 {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 24.5px);
+}
+.requests1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 99px;
+}
+.all-firends-parent {
+  position: absolute;
+  top: 321px;
+  left: 720px;
+  width: 456px;
+  height: 25px;
+  font-size: var(--font-size-smi);
+}
+.firends-slider-icon {
+  position: absolute;
+  top: 951px;
+  left: 1269px;
+  width: 73px;
+  height: 18px;
+}
+.friends4 {
+  position: absolute;
+  top: 975px;
+  right: 172px;
+  color: var(--color-darkorange);
+}
+.profile-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1275px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-calibri);
+}
